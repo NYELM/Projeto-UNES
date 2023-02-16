@@ -1,5 +1,4 @@
 # Projeto-UNES
-Português mais abaixo
 
 This is my first project I have done so far. I just created this using HTML to practice my knowledge on HTML. That´s why 
 this project was made using table instead of using the standard way to do it.
